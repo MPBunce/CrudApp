@@ -1,5 +1,5 @@
 # CrudApp
-Simple CRUD app I made following this tutorial:
+Simple CRUD app I made using React.js following this tutorial:
 
 https://www.taniarascia.com/crud-app-in-react-with-hooks/
 
